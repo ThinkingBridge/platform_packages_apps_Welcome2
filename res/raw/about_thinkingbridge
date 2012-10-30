@@ -4,18 +4,15 @@ Originally based off of Google's AOSP and Cyanogenmod code base, You can experie
 
 
 Developers:
-htchoi5609
-woorim98
-boseak
-gmvpark
-Mr.Green
-l gend
-NT
+htchoi5609 / Maintainer , Platform dev
+woorim98 / Kernel dev
+boseak / Web manager
+Mr.Green / Translators
+l gend / Designer
 
 Devices currently supported:
 GSM Galaxy Nexus (maguro)
 Verizon Galaxy Nexus (toro)
-Sprint Galaxy Nexus (toroplus)
 Nexus S (crespo)
 Nexus S 4G (crespo4g)
 Nexus 7 Grouper

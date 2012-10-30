@@ -1,0 +1,22 @@
+
+
+Alpha1
+- AOSP 4.1.1 r6
+- 첫 젤리빈 롬!
+- 상단바 옵션추가
+- 날씨패널추가
+- T-mobile 테마엔진추가 (tmobile,cm)
+- T9 Dialer/Landscape/Dialpad Settings (CM)
+- 파워메뉴 커스터마이징 추가
+
+Alpha2
+- 리베이싱 AOSP 4.1.2 r1
+- 날씨패널삭제 (system ui fc error)
+- 환영어플추가
+- 네비게이션바추가 (cm)
+- 락스크린추가 (cm)
+- 커널셋팅추가
+
+
+
+

@@ -1,11 +1,21 @@
-JELLYBEAN
+
 
 Alpha1
+- AOSP 4.1.1 r6
 - First release of Jellybean!
+- Add Wether panel
+- Add statusbar option
+- Add T-mobile Theme (tmobile,cm)
+- T9 Dialer/Landscape/Dialpad Settings (CM)
+- Customizable Power Menu
 
 Alpha2
+- Rebase 4.1.2 r1
+- Remove Weather Panel (system ui fc error)
 - Add Welcome
-- Remove Profile
+- Add Navigation bar (cm)
+- Add lockscreen (cm)
+- Add Performance Settings
 
 
 
