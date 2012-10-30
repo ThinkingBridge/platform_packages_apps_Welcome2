@@ -45,7 +45,7 @@ public class AboutFragment extends Fragment {
 
 
     private String readAbout() {
-        InputStream inputStream = getResources().openRawResource(R.raw.about_thinkingbridge);
+        InputStream inputStream = getResources().openRawResource(R.raw.about_thinkingbridge), "utf-8"));;
         ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 
         int i;
