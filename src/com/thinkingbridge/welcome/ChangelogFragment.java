@@ -48,7 +48,7 @@ public class ChangelogFragment extends Fragment {
     }
 
     private String readChangelog() {
-        InputStream inputStream = getResources().openRawResource(R.raw.changelog), "utf-8"));
+        InputStream inputStream = getResources().openRawResource(R.raw.changelog);
         ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 
         int i;
