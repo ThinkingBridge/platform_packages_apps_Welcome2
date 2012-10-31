@@ -22,13 +22,13 @@
     <string name="changelog_tab_title">체인지로그</string>
     <string name="contact_tab_title">소통</string>
 
-    <string name="about_title">ThinkingBridge에 오신걸환영합니다.</string>
+    <string name="about_title">TB 에 오신걸환영합니다.</string>
 
     <string name="changelog_title">체인지로그:</string>
     <string name="changelog_version_text">현재버전:</string>
 
     <string name="contact_title">ThinkingBridge와 소통하기:</string>
-    <string name="contact_text">http://tbridge.kr\nTwitter: @ThinkingBridge\n\nWe are also on Develoid and XDA forums</string>
+    <string name="contact_text">http://tbridge.kr\nTwitter: @ThinkingBridge\n\nThinkingBridge는 디벨로이드와 xda 포럼 등에서 볼수있습니다.</string>
 
     <string name="finish_button_text">끝</string>
     <string name="back_button_text">뒤로</string>
