@@ -1,13 +1,12 @@
 
 
-Alpha1
-- AOSP 4.1.1 r6
-- First release of Jellybean!
-- Add Wether panel
-- Add statusbar option
-- Add T-mobile Theme (tmobile,cm)
-- T9 Dialer/Landscape/Dialpad Settings (CM)
-- Customizable Power Menu
+
+build1
+-Add digital battery style
+-Change fonts
+-Change ringtone
+-some bug fix
+
 
 Alpha2
 - Rebase 4.1.2 r1
@@ -17,11 +16,15 @@ Alpha2
 - Add lockscreen (cm)
 - Add Performance Settings
 
-build1
--Add digital battery style
--Change fonts
--Change ringtone
--some bug fix
+
+Alpha1
+- AOSP 4.1.1 r6
+- First release of Jellybean!
+- Add Wether panel
+- Add statusbar option
+- Add T-mobile Theme (tmobile,cm)
+- T9 Dialer/Landscape/Dialpad Settings (CM)
+- Customizable Power Menu
 
 
 
