@@ -1,11 +1,22 @@
 
 
+build2 
+- Update circle battery charging animation
+- Kill app long press button faster
+- Fix many typo
+- "Clear all"  button on recent app
+- Nexus 7 binary update
+- Add ability toggle navbar on sgs3
+- Custom Navigation bar height
+- Add Navbar key and glow color
+- Add Navbar transparency and glow speed
+
 
 build1
--Add digital battery style
--Change fonts
--Change ringtone
--some bug fix
+- Add digital battery style
+- Change fonts
+- Change ringtone
+- some bug fix
 
 
 Alpha2
@@ -25,7 +36,3 @@ Alpha1
 - Add T-mobile Theme (tmobile,cm)
 - T9 Dialer/Landscape/Dialpad Settings (CM)
 - Customizable Power Menu
-
-
-
-
