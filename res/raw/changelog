@@ -1,4 +1,9 @@
-
+build3
+- Change CM to AOSP
+- AOSP 4.2.1_r1
+- Increase media volume threshold from 15 to 30 (Provision team)
+- Fix Google location bug
+- Remove lag when launching an app
 
 build2 
 - Update circle battery charging animation
