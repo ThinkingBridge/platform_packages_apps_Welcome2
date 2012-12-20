@@ -1,17 +1,15 @@
-ThinkingBridge ROM is built from idea of maximum stability and performance for your device.
-
-Originally based off of Google's AOSP and Cyanogenmod code base, You can experience the new features.
+ThinkingBridge ROM is an Android aftermarket firmware which is built with the purpose to offer maximum stability, high performance & an appealing User Interface. This ROM is based on The Android Open Source Project (AOSP) and CyanogenMod code. We are here to contribute to the Android Open Source world and provide our users with the Best-Of-Android.
 
 
-Developers:
-Bridge / Maintainer , Platform dev
-Ultimate / Platform dev , Kernel dev
+ThinkingBridge Team:
+Bridge / Maintainer , Platform Developer
+Ultimate / Platform Developer , Kernel Developer
 DJBhardwaj / Platform Developer
-Akibingbing / Web manager
-Mr.Green / Translators
+Akibingbing / Web content manager
+Mr.Green / Translator
 l gend / Designer
 
-Devices currently supported:
+Device currently supported:
 GSM Galaxy Nexus (maguro)
 Nexus S (crespo)
-Nexus 7 Grouper
+Nexus 7 (grouper)
