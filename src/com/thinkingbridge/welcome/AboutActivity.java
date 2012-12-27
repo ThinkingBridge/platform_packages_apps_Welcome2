@@ -41,7 +41,7 @@ public class AboutActivity extends Activity {
 
     public static final String PREFS_NAME = "Welcome";
     public static final String ROM_VERSION = "rom_version";
-    private static final String ROM_VERSION_PROP = "ro.thinkingbridge.version";
+    private static final String ROM_VERSION_PROP = "ro.tb.version";
 	
     /** Called when the activity is first created. */
     @Override
