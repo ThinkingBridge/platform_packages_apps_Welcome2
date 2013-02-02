@@ -28,6 +28,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class AboutFragment extends Fragment {
+	BufferedReader inputStream;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
