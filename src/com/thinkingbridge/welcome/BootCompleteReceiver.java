@@ -11,8 +11,8 @@ import android.util.Log;
 
 public class BootCompleteReceiver extends BroadcastReceiver {
 
-    private static final String CHANGELOG_INTENT = "tb.welcome.ChangeLogActivity";
-    private static final String WELCOME_INTENT = "tb.welcome.MainActivity";
+    private static final String CHANGELOG_INTENT = "com.thinkingbridge.welcome.ChangeLogActivity";
+    private static final String WELCOME_INTENT = "com.thinkingbridge.welcome.MainActivity";
     private static final String TAG = "WelcomeBootReceiver";
     int show;
     String a;
