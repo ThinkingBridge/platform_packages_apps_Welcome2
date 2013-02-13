@@ -1,39 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The Android Open Source Project
+<resources>
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <string name="app_name">About ThinkingBridge</string>
-
-    <string name="about_tab_title">About</string>
-    <string name="changelog_tab_title">Changelog</string>
-    <string name="contact_tab_title">Contact</string>
-
-    <string name="about_title">Welcome to ThinkingBridge</string>
-
-    <string name="changelog_title">CHANGELOG:</string>
-    <string name="changelog_version_text">Current Version:</string>
-
-    <string name="contact_title">Contacting ThinkingBridge:</string>
-    <string name="contact_text">http://tbridge.kr\nTwitter: @ThinkingBridge\n\nWe are also on Develoid and XDA forums</string>
-
-    <string name="finish_button_text">Finish</string>
-    <string name="back_button_text">Back</string>
-    <string name="next_button_text">Next</string>
-
-    <string name="menu_exit">Exit</string>
+    <string name="app_name">Welcome2</string>
+    <string name="unknown">Unknown</string>
+    <string name="cversion">Current version:</string>
+    <string name="page1">"Hello!"</string>
+    <string name="page1_1">Welcome 2 ThinkingBridge.</string>
+    <string name="page1_2">Learn how to use ThinkingBridge.</string>
+    <string name="page2">Changelog</string>
+    <string name="page3">Linaro Toolchain</string>
+    <string name="page3_1">ThinkingBridge use linaro toolchain,</string>
+    <string name="page3_2">you can experience extreme performance.</string>
+    <string name="page4">Features</string>
+    <string name="page5">Not yet</string>
+    <string name="page6">Finish</string>
+    <string name="exit">exit</string>
+    <string name="next">next</string>
+    
 
 </resources>
