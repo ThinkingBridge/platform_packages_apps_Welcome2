@@ -30,7 +30,7 @@ public class Piehelp extends Activity {
 	}
 	class Move extends Thread {
 		public void run(){
-        	 finger.scrollBy(-40, -320);
+        	 finger.scrollBy(0, -320);
 			for(;;){
 				move1 = move1+1;
 				try {
