@@ -16,6 +16,9 @@
     <string name="page6">Finish</string>
     <string name="exit">exit</string>
     <string name="next">next</string>
-    
+    <string name="usepie">Pie Control</string>
+    <string name="usepie1">To use pie control,</string>  
+    <string name="usepie2">Slide your finger.</string>  
+    <string name="okay">okay</string>    
 
 </resources>

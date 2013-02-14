@@ -9,13 +9,14 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/textView2"
         android:layout_below="@+id/textView2"
-        android:text="아래에서 위로 드래그하세요."
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:text="@string/usepie2"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="17dp" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="20dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
 android:visibility="invisible"
@@ -24,13 +25,13 @@ android:visibility="invisible"
     <Button
         android:id="@+id/button1"
         android:layout_width="100dp"
-        android:layout_height="wrap_content"
+        android:layout_height="40dp"
         android:layout_above="@+id/textView4"
         android:layout_alignParentRight="true"
-        android:layout_marginRight="28dp"
+        android:layout_marginRight="23dp"
         android:background="#41BAE7"
                 android:onClick="finish"
-        android:text="확인" />
+        android:text="@string/okay" />
 
     <TextView
         android:id="@+id/textView1"
@@ -39,8 +40,8 @@ android:visibility="invisible"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginLeft="28dp"
-        android:layout_marginTop="86dp"
-        android:text="Pie Control 사용하기"
+        android:layout_marginTop="89dp"
+        android:text="@string/usepie"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="#33B5E5" />
 
@@ -51,8 +52,9 @@ android:visibility="invisible"
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="5dp"
-        android:text="Pie Control을 사용하려면"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:text="@string/usepie1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="17dp" />
 
     <ImageView
         android:id="@+id/finger"

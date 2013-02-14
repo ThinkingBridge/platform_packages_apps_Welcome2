@@ -16,6 +16,9 @@
     <string name="page6">끝</string>
     <string name="exit">종료</string>
     <string name="next">다음</string>
-    
+    <string name="usepie">Pie Control 사용하기</string>
+    <string name="usepie1">Pie Control을 사용하려면</string>  
+    <string name="usepie2">아래에서 위로 드래그하세요</string>  
+    <string name="okay">확인</string>
 
 </resources>

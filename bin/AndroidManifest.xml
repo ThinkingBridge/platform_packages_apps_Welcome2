@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.thinkingbridge.welcome"
+    coreApp="true">
+
+    <uses-sdk
+        android:minSdkVersion="15"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:theme="@android:style/Theme.Holo.NoActionBar" >
+        <receiver android:name="com.thinkingbridge.welcome.BootCompleteReceiver" android:enabled="true"
+                android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+                <intent-filter>
+                        <action android:name="android.intent.action.BOOT_COMPLETED" />
+                </intent-filter>
+        </receiver>
+        <activity
+            android:name="com.thinkingbridge.welcome.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+       <activity
+            android:name="com.thinkingbridge.welcome.ChangeLogActivity"
+            android:screenOrientation="portrait">
+                 <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.ABOUT" />
+            </intent-filter>
+       </activity>
+              <activity
+            android:name="com.thinkingbridge.welcome.Piehelp" 
+                    android:theme="@android:style/Theme.Holo.Dialog.NoActionBar"
+                    android:screenOrientation="portrait">
+                 <intent-filter>
+            </intent-filter>
+       </activity>
+
+    </application>
+
+</manifest>
