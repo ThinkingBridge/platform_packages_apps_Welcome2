@@ -11,7 +11,6 @@ import android.app.Activity;
 import android.content.SharedPreferences;
 import android.content.res.Resources.NotFoundException;
 import android.os.Bundle;
-import android.os.SystemProperties;
 import android.view.View;
 import android.widget.TextView;
 
@@ -57,9 +56,27 @@ public class ChangeLogActivity extends Activity {
         buildnumber.setText(getString(R.string.cversion)+value);
         changelog.setText(byteArrayOutputStream.toString());
 	}
-    public String getRomVersion() {
-        String version = SystemProperties.get("ro.tb.version");
-        return version;
+	public String getRomVersion(){
+    	String a = null;
+    	try{          
+            Class SystemProperties = getApplicationContext().getClassLoader().loadClass("android.os.SystemProperties");
+
+            Class[] types= new Class[1];
+            types[0]= String.class;
+            Object[] params= new Object[1];
+            params[0]= new String("ro.modversion");
+
+            Method get = SystemProperties.getMethod("get", types);
+            a = (String) get.invoke(SystemProperties, params);
+            if(a == null){
+            	a = "Unknown";
+            }
+            if(a == ""){
+            	a = "Unknown";
+            }
+    }catch( Exception e ){
+	}
+    	return a;
     }
 	public void skip(View v){
 		finish();

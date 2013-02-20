@@ -8,17 +8,16 @@
     <string name="page1_1">ThinkingBridge에 오신 것을 환영합니다.</string>
     <string name="page1_2">어떻게 ThinkingBridge를 사용하는지 알아보세요.</string>
     <string name="page2">체인지로그</string>
-    <string name="page3">Linaro Toolchain</string>
-    <string name="page3_1">Linaro Toolchain을 쓰는 ThinkingBridge에서</string>
+    <string name="page3">빠른 성능</string>
+    <string name="page3_1">빠른 성능을 자랑하는 ThinkingBridge에서</string>
     <string name="page3_2">최고의 성능을 느끼실수 있습니다.</string>
-    <string name="page4">기능</string>
-    <string name="page5">아직안함</string>
-    <string name="page6">끝</string>
+    <string name="page4">많은 기능</string>
+    <string name="page4_1">많은 기능을 삽입한 ThinkingBridge에서</string>
+    <string name="page4_2">새로운 기능을 맛볼수 있습니다.</string>
+    <string name="page5">끝</string>
+    <string name="page5_1">이제 시작하세요!</string>
     <string name="exit">종료</string>
     <string name="next">다음</string>
-    <string name="usepie">Pie Control 사용하기</string>
-    <string name="usepie1">Pie Control을 사용하려면</string>  
-    <string name="usepie2">아래에서 위로 드래그하세요</string>  
-    <string name="okay">확인</string>
+    
 
 </resources>

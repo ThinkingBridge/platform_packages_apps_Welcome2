@@ -101,8 +101,6 @@ public class MainActivity extends Activity {
 			setContentView(R.layout.activity_4);
 		}else if(page == 5){
 			setContentView(R.layout.activity_5);	
-		}else if(page == 6){
-			setContentView(R.layout.activity_6);
 		}		
 	}
 	class prepare extends Thread{
