@@ -12,8 +12,10 @@
     <string name="page3_1">ThinkingBridge use linaro toolchain,</string>
     <string name="page3_2">you can experience extreme performance.</string>
     <string name="page4">Features</string>
-    <string name="page5">Not yet</string>
-    <string name="page6">Finish</string>
+    <string name="page4_1">ThingkingBridge have many feature.</string>
+    <string name="page4_2">you can experience more feature.</string>
+    <string name="page5">Finish</string>
+    <string name="page5_1">Start now!</string>
     <string name="exit">exit</string>
     <string name="next">next</string>
     
